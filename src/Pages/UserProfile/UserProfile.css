@@ -1,0 +1,32 @@
+.avatar-and-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detail-label {
+  font-weight: bold;
+}
+
+.detail {
+  margin-bottom: 10px;
+}
+
+.bio {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.repo-search-input {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.repo-name {
+  font-weight: bold;
+}
+
+.forks-and-stars {
+  display: flex;
+  flex-direction: column;
+}

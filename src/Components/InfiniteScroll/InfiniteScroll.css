@@ -1,0 +1,9 @@
+.scroll-container {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.spinner {
+  margin: 30px auto;
+  display: block;
+}

@@ -1,0 +1,22 @@
+.user-search-input {
+  width: 100%;
+}
+
+.user-result:hover {
+  background: #ddd;
+}
+
+.avatar {
+  justify-self: flex-start;
+  margin-right: 20px;
+}
+
+.username {
+  justify-self: flex-start;
+  flex: 1;
+  font-weight: bold;
+}
+
+.repo-count {
+  justify-self: flex-end;
+}
